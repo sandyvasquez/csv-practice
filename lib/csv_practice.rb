@@ -17,8 +17,8 @@ def get_all_olympic_athletes(filename)
 		 "Medal"  => row["Medal"]
 		 }
 
-		 p hashes_of_athletes
-		 return
+# 		 p hashes_of_athletes
+# 		 return
 
 		 array_of_athletes.push(hashes_of_athletes)
 
